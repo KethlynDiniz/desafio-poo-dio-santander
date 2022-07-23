@@ -56,7 +56,7 @@ public class Main {
 		devJoao.progredir();
 		System.out.println("-");
 		System.out.println("Conteudos Inscritos João" + devJoao.getConteudosInscritos());
-		System.out.println("Conteudos Concluidos João" + devJoao.getConteudosConcluidos());
+		System.out.println("\nConteudos Concluidos João" + devJoao.getConteudosConcluidos());
 		System.out.println("XP: " + devJoao.calcularTotalXP());
 	}
 
